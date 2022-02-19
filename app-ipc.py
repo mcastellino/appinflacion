@@ -1,0 +1,8 @@
+lista = list(('nombre', 'edad', 45))
+# input('Inserte su edad: ')
+# int(name)
+#name = int(name)
+print(lista)
+print(type(lista))
+print('nombre' in lista)
+print(lista[1])
